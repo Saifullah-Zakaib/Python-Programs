@@ -13,5 +13,5 @@ modified_string = clean_string(string)
 if is_palindrome(modified_string):
     print(modified_string,"Is a Palindrome.")
 else:
-    print(modified_string,"Not a palindrome.")
+    print(modified_string,"Not a palindrome..")
 
